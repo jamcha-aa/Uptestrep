@@ -1,1 +1,2 @@
 test from vbox.
+test from magit.
