@@ -1,1 +1,1 @@
-test from eeepc with remacs
+test from win git (not msys)
