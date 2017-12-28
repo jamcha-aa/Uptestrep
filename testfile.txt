@@ -1,1 +1,1 @@
-test from win git (not msys)
+test from win.
