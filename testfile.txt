@@ -1,2 +1,3 @@
 test from win.
 test from manjaro.
+test from cloudready.
